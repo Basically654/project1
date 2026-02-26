@@ -1,0 +1,24 @@
+{
+    "books":[
+        {
+            "title": "A Wizard of Earthsea",
+            "author": "Ursula K. Le Guin",
+            "genres": ["fantasy", "childrens literature", "fiction"]
+        },
+        {
+            "title": "Harry Potter and the Half Blood Prince",
+            "author": "J.K. Rowling",
+            "genres": ["fantasy","fiction", "young adult literature"]
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "genres":["dystopian fiction", "political fiction", "science fiction"]
+        },
+        {
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "genres": ["allegory", "political satire", "fable"]
+        }
+    ]
+}
